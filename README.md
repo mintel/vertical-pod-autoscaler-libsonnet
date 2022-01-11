@@ -1,1 +1,0 @@
-# vertical-pod-autoscaler-libsonnet
