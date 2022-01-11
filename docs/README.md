@@ -2,4 +2,4 @@
 
 This library is generated with [`k8s`](https://github.com/mintel/k8s).
 
-[Docs](https://mintel.github.io/vertical-pod-autoscaler-libsonnet)
+- [0.9](0.9/README.md)
